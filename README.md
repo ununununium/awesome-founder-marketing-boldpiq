@@ -650,6 +650,7 @@ This repo merges and extends:
 | [Clearscope](https://www.clearscope.io/) | Content optimization |
 | [Surfer SEO](https://surferseo.com/) | On-page optimization |
 | [OtterlyAI](https://otterly.ai/) | AI search visibility tracking |
+| [Toprank](https://github.com/nowork-studio/toprank) | Open-source Claude Code plugin and skill set for SEO, Google Ads, content writing, and CMS optimization workflows |
 
 ### CRM & Outreach
 | Tool | Use Case |
