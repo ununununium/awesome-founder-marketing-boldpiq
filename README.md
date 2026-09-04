@@ -6,6 +6,7 @@ This repo merges and extends:
 - [Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) — bootstrap-friendly tactics for early-stage founders
 - [awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing) — B2D and DevRel resources
 - [awesome-marketing](https://github.com/ronakganatra/awesome-marketing) — general marketing depth
+- [SaaSCity](https://saascity.io) — gamified SaaS/AI directory; listings become buildings on an isometric city map
 - [awesome-dev-marketing](https://github.com/marketinguys/awesome-dev-marketing) — developer marketing tools
 - [awesome-growth-hacking](https://github.com/bekatom/awesome-growth-hacking) — growth fundamentals
 
