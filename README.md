@@ -159,6 +159,7 @@ This repo merges and extends:
 - [The Animalz Content Marketing Benchmark Report](https://www.animalz.co/blog/benchmark-report-2021/)
 - [16 Ways to Generate Stellar Content Ideas](https://ahrefs.com/blog/content-ideas/)
 - [Kevin Indig's 2020 Content Roundup](https://airtable.com/shrSZRDaZ6VcPZSR7) — 225 bookmarked resources
+- [KupFollowersow.pl 30-Day Content Planner](https://kupfollowersow.pl/resources/pl/content-planner.xlsx) — free Polish XLSX worksheet for manually planning topics, formats, messages, dates and evaluation; no registration or automated publishing.
 
 ### Technical Content (for Developer Audiences)
 - [How to Write Better Technical Content](https://draft.dev/learn/technical-content)
